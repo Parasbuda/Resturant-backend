@@ -1,0 +1,17 @@
+{
+  "name": "mern-resturant",
+  "version": "1.0.0",
+  "description": "Resturant App developed using MERN Stack",
+  "main": "server.js",
+  "scripts": {
+    "start":"node server.js",
+    "start-server":"nodemon server.js"
+  },
+  "author": "Parasbuda",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.9",
+    "nodemon": "^2.0.6"
+  }
+}
